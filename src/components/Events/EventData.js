@@ -1,0 +1,58 @@
+export const Eventdata = [
+    {
+        id: 1,
+        title: "Tech talk",
+        description: "Hrim Gandhi talks about her internship and placement experience",
+        start: "2021-12-22",
+        end: "2021-12-23",
+        location: "Mumbai",
+        mode: "Online",
+        theme: "Internships and Placements",
+        organizingInstitute: "VJTI",
+        totalRegistrations: "200",
+        fees:"0",
+        image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MLc0-6HswDk3V4dAabFgggHaE8%26pid%3DApi&f=1"
+    },
+    {
+        id: 2,
+        title: "IOT Worksho",
+        description: "Learn IOT in 1 hour",
+        start: "2021-6-22",
+        end: "2021-6-22",
+        location: "Mumbai",
+        mode: "Online",
+        theme: "IOT",
+        organizingInstitute: "SPIT",
+        totalRegistrations: "300",
+        fees:"350",
+        image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MLc0-6HswDk3V4dAabFgggHaE8%26pid%3DApi&f=1"
+    },
+    {
+        id: 3,
+        title: "Tech talk",
+        description: "Cicadra ara talks about her internship experience at Morgan stabley",
+        start: "2021-12-22",
+        end: "2021-12-23",
+        location: "Mumbai",
+        mode: "Offline",
+        theme: "Internships and Placements",
+        organizingInstitute: "COEP",
+        totalRegistrations: "100",
+        fees:"0",
+        image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MLc0-6HswDk3V4dAabFgggHaE8%26pid%3DApi&f=1"
+    },
+    {
+        id: 4,
+        title: "Blockchain and Crypto",
+        description: "Blockchain Developer BD talks about...",
+        start: "2021-7-22",
+        end: "2021-8-23",
+        location: "Mumbai",
+        mode: "Offline",
+        theme: "Blockchain",
+        organizingInstitute: "ARA",
+        totalRegistrations: "200",
+        fees:"0",
+        image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.MLc0-6HswDk3V4dAabFgggHaE8%26pid%3DApi&f=1"
+    },
+];
